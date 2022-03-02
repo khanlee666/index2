@@ -12,7 +12,7 @@ header{
     padding: 15px;
     width: 100%;
     border-radius: 10px;
-    background: #FF4F08;
+    background: cyan;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
 }
     .icon{
@@ -31,7 +31,7 @@ header{
 article{
     width: 70%;
     height: auto;
-    background: lightgrey;
+    background: rgb(190, 232, 235);
     padding: 15px;
 }
 h1{
@@ -39,17 +39,18 @@ h1{
    font-size: 35px;
    font-weight: bolder;
    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-   color: burlywood;
+   color: black;
 }
 .box{
-    width: 220px;
+    width: 250px;
     height: auto;
     border: 1px inset black;
-    margin: 30px;
+    margin: 50px;
     box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
     background: white;
 }
 .box img{
+    margin: 15px;
     width: 220px;
     height: 200px;
 }
